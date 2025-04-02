@@ -24,7 +24,8 @@ I'm a Postdoctoral Research Associate at the University of Sydney with a PhD in 
 - University of Maragheh (UM)
   
 
-  [📄 View My CV]:(https://github.com/farhangnastaran/NastaranFarhang/blob/main/Farhang_CV_April_2025.pdf)
+  📄 View My Resume:
+- [CV](https://github.com/farhangnastaran/NastaranFarhang/blob/main/Farhang_CV_April_2025.pdf)
 
 
   🌐 Connect with Me:
