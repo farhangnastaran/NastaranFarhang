@@ -1,4 +1,4 @@
-# Nastaran Farhang (Short Bio)
+# Nastaran Farhang (Short Bio & CV)
 
  👋 Hi, I'm Nastaran Farhang
 
@@ -14,25 +14,6 @@ I'm a Postdoctoral Research Associate at the University of Sydney with a PhD in 
 - Time Series Analysis & Data Science
 - Plasma Physics 
 
-
- 💻 Tools & Technical Skills:
-- Python 
-- MATLAB 
-- Complex Network Theory
-- Data Visualization
-- Cellular Automata
-
-
- 🎓 Academic Background & Experience:
-- Postdoctoral Researcher, University of Sydney (2023–Present)
-- Postdoctoral Researcher, Isfahan University of Technology (2021–2022)
-- Visiting Scholar, University of Zanjan (2018–2024)
-- Lecturer, University of Zanjan (2016–2017)
-- PhD in Solar Physics, University of Zanjan (2014–2018)
-- MSc in Astrophysics, University of Zanjan (2011–2013)
-- BSc in Physics, Isfahan University of Technology (2007–2011)
-
-
  🤝 Collaborations:
 - University of Sydney (Usyd)  
 - University of Melbourne (UniMelb)  
@@ -41,19 +22,12 @@ I'm a Postdoctoral Research Associate at the University of Sydney with a PhD in 
 - Isfahan University of Technology (IUT)  
 - University of Zanjan (ZNU)  
 - University of Maragheh (UM)
+  
+
+  📄 View My CV:
+- [CV](https://github.com/farhangnastaran/NastaranFarhang/blob/main/Farhang_CV_April_2025.pdf)
 
 
- 🧑‍🏫 Teaching & Supervision:
-- Lecturer in Fundamental Physics
-- Advisor for MSc and PhD theses on:
-  - The Complex Network of Solar Active Regions
-  - 3D Simulation of Coronal Magnetic Field and Solar Flare Models
-  - Oscillations and Weak Damping of Solar Coronal Loops
-  - The Structure of Solar Flare Energy Network: Hybrid Model Approach
-  - SOC vs Chaotic Systems Using HVG Methodology
-  - Investigation of Solar Magnetic Network’s Properties
-
-
- 🌐 Connect with Me:
+  🌐 Connect with Me:
 - [LinkedIn](https://www.linkedin.com/in/nastaran-farhang)
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=KGEB8dEAAAAJ)
