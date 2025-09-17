@@ -23,7 +23,7 @@ Collaborations:
   
 
 View My Resume:
-- [CV](https://github.com/farhangnastaran/NastaranFarhang/blob/main/Farhang_CV_April_2025.pdf)
+- [CV](https://github.com/farhangnastaran/NastaranFarhang/blob/main/Farhang_CV.pdf)
 
 
 Connect with Me:
